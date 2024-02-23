@@ -5,7 +5,7 @@ A Website to connect sports enthusiasts with each other and with sports faciliti
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ```bash
-    git clone https://github.com/alpha951/sports-connect-website-btp.git
+    git clone https://github.com/MayankMittal02/SportyConnect
     cd sports-connect-website-btp
 ```
 1. Create a .env file same as the .env.example file and fill in the required details.
